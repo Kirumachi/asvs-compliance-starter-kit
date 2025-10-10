@@ -1,8 +1,8 @@
-#  ASVS Organizational Framework
+# ASVS Compliance Starter Kit
 
-This repository contains the official [Your Organization's Name] fork of the **OWASP Application Security Verification Standard (ASVS) 5.0**. Its purpose is to provide a centralized, version-controlled source of truth for security requirements, policies, and implementation guidance to empower our engineering teams to build secure products by design.
+Welcome! This repository provides a set of adaptable templates and documentation based on the **OWASP Application Security Verification Standard (ASVS) 5.0**. Our goal is to offer a practical framework that helps engineering teams of all sizes embed security into their development process from the start.
 
-This framework is a key enabler of our "shift-left" security strategy, ensuring that security is considered at every stage of the Software Development Lifecycle (SDLC).
+This is a public, open-source project, free for anyone to use and adapt. We welcome contributions to help make it a valuable resource for the entire community. By using this kit, teams can effectively "shift-left," ensuring security is considered at every stage of the Software Development Lifecycle (SDLC) and empowering them to build secure products by design.
 
 ---
 
