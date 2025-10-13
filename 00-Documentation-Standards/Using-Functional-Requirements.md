@@ -23,3 +23,13 @@ You can use these files to:
 2.  Select the corresponding `ASVS-Functional-Requirements-L[1|2].json` file.
 3.  Use a script or tool to parse this JSON file and import the requirements directly into your project's backlog as security stories.
 4.  Reference these requirements in your `Decision-Templates` to justify your design choices.
+
+### How the Files are Structured
+
+The functional requirement files are **cumulative**. This means that the file for a higher level also includes all requirements from the lower levels.
+
+* **`ASVS-Functional-Requirements-L1.json`**: Contains all Level 1 requirements.
+* **`ASVS-Functional-Requirements-L2.json`**: Contains all Level 1 **and** Level 2 requirements.
+* **`ASVS-Functional-Requirements-L3.json`**: Contains all Level 1, 2, **and** 3 requirements.
+
+This makes it easy to grab the single file that matches your project's target level and get a complete checklist.
